@@ -1,0 +1,4 @@
+&projwfc
+prefix = 'LAFEO3'
+outdir = './out/'
+/
