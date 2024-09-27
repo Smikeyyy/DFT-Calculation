@@ -7,7 +7,8 @@ Make and organize file into following folders to run:
 3. "out" -> output
 
 How to run in bash linux shell:
-1. chmod +x calculation_new.sh -> change permission to executable
-2. ./calculation_new.sh -> execute bash script
+1. open terminal in "direct" folder
+2. chmod +x calculation_new.sh -> change permission to executable
+3. ./calculation_new.sh -> execute bash script
 
 Output files after running -> projected density of state of each atom orbitals
