@@ -10,5 +10,4 @@ How to run in bach linux shell:
 1. chmod +x calculation_new.sh -> change permission to executable
 2. ./calculation_new.sh -> execute bash script
 
-Output files after running:
-projected density of state of each atom orbitals
+Output files after running -> projected density of state of each atom orbitals
