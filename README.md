@@ -1,4 +1,4 @@
-# DFT-Calculation
+# DFT+U Calculation
 Perform DFT+U calculation on LaFeO3 Anti-Ferromagnetic G-Type to calculate DOS
 
 Make and organize file into following folders to run:
@@ -6,7 +6,7 @@ Make and organize file into following folders to run:
 2. "pseudo" -> La, Fe, O pseudopotential
 3. "out" -> output
 
-How to run in bach linux shell:
+How to run in bash linux shell:
 1. chmod +x calculation_new.sh -> change permission to executable
 2. ./calculation_new.sh -> execute bash script
 
